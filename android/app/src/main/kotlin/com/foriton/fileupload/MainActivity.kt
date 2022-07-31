@@ -1,0 +1,6 @@
+package com.foriton.fileupload
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
